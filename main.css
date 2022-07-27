@@ -1,0 +1,112 @@
+.bg {
+  background-color: rgba(191, 200, 201, 0.626);
+}
+
+.img-1 {
+  background-image: url(https://shoqansuits.com/static/14d63dfc-b79c-4332-a0a9-489717504c4a);
+  width: 250px;
+  height: 200px;
+  background-size: cover;
+  border-radius: 15px;
+}
+
+.img-2 {
+  background-image: url(https://sun9-32.userapi.com/s/v1/if2/ZP-8tLnn5Wisbdgze0qOc6r1UhXemL7-31uThoUvk_dSrNFaqwu24_9bqzXK-eqF3_gybuq63o3iSTUVzRib6G1g.jpg?size=483x604&quality=96&type=album);
+  width: 250px;
+  height: 200px;
+  background-size: cover;
+  border-radius: 100px;
+}
+
+h2 {
+  border-radius: 10px;
+  color: rgba(3, 86, 34, 0.363);
+  border-color: brown;
+  font-family: monospace;
+}
+
+.photo {
+  margin-top: 15px;
+  width: 100%;
+  height: 500px;
+}
+
+hr {
+  border: none;
+  color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 0);
+  height: 3px;
+  border-radius: 2px;
+}
+
+.text-center {
+  font-family: Footlight Mt Light;
+}
+
+h3 {
+  text-align: center;
+  font-family: Footlight Mt LightS;
+  margin-top: 20px;
+}
+
+.strong {
+  margin-top: 20px;
+  text-align: right;
+}
+
+.success {
+  background-color: rgba(191, 200, 201, 0.626);
+  width: auto;
+  height: 810px;
+  margin-top: 80px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 1px;
+}
+
+ul li {
+  list-style-type: none;
+  font-family: Footlight Mt LightS;
+}
+
+p {
+  text-align: center;
+  font-family: Footlight Mt Light;
+}
+
+.form-floating {
+  margin-top: 15px;
+  width: auto;
+  height: 50px;
+}
+
+.form-select {
+  margin-top: 25px;
+  width: 400px;
+  height: 50px;
+  padding: auto;
+  margin: 0 auto;
+}
+
+.footer {
+  margin-top: 5px;
+  color: rgb(0, 5, 8);
+  text-align: center;
+  font-family: Footlight Mt Light;
+  padding: 3px;
+}
+
+input[type="text"],
+select {
+  margin-top: 15px;
+  width: 300px;
+  height: 30px;
+  margin: 5px;
+  margin-left: 90px;
+}
+input[type="submit"] {
+  width: 300px;
+  height: 30px;
+  margin: 5px;
+  margin-left: 90px;
+}
